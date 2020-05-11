@@ -2,4 +2,4 @@
 
 Simple RC car made from scratch with NRF24L01 and arduino.
 
-![](image/image3.jpg)
+![](images/image3.JPG)
